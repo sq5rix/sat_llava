@@ -14,7 +14,7 @@ class Sat:
     """
 
     def __init__(self):
-         ee.Authenticate()
+        ee.Authenticate()
         ee.Initialize()
 
 
